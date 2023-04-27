@@ -9,7 +9,6 @@
 hugo_stats.json
 
 **/.DS_Store
-themes/
 
 # Executable may be added to repository
 hugo.exe
